@@ -14,3 +14,5 @@ Additional info:
 
 For additional info, please read the documentation at 
 http://opkode.net/babbledocs/actionbar.babble/index.html 
+
+Join the chat at https://gitter.im/collective/actionbar.babble
